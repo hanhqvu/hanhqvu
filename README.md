@@ -1,6 +1,6 @@
 # Hanh Vu
 
-I'm a Full Stack Software Engineer with a bias for front-end and mobile development. My motto for developing is "Simplicity through sophistication" so I always try to make the most user centric and performant applications. I'm always interested in learning and trying out new technologies to find the best solution (as far as I can) for my projects. I'm brushing up my Typescript knowledge and struggling to use generics effectively. Otherwise, my most recent obsession is Formula 1 and I hope to attend the Japanese Grand Prix next year!
+I'm a Full Stack Software Engineer with a bias for front-end and mobile development. My motto for developing is "Simplicity through sophistication" so I always try to make the most user centric and performant applications. I'm always interested in learning and trying out new technologies to find the best solution (as far as I can) for my projects. I'm brushing up my TypeScript knowledge and struggling to use generics effectively. Otherwise, my most recent obsession is Formula 1 and I hope to attend the Japanese Grand Prix next year!
 
 ---
 
