@@ -1,6 +1,10 @@
 # Hanh Vu
 
-I'm a Full Stack Software Engineer with a bias for front-end and mobile development. My motto for developing is "Simplicity through sophistication" so I always try to make the most user centric and performant applications. I'm always interested in learning and trying out new technologies to find the best solution (as far as I can) for my projects. I'm brushing up my TypeScript knowledge and struggling to use generics effectively. Otherwise, my most recent obsession is Formula 1 and I hope to attend the Japanese Grand Prix next year!
+I'm a Full Stack Software Engineer with a bias for front-end and mobile development. My motto for developing is "Simplicity through sophistication" so I always try to make the most user centric and performant applications.
+
+I'm always interested in learning and trying out new technologies to find the best solution (as far as I can) for my projects. Podcasts and books are usually my companions on the long train rides but the occasional games and tv shows slip through.
+
+I have become more interested in sustainability and hope to use my skill to further this cause. I recently participated in mymizu's hackathon and contributed to their open source web app. After I became a Octopus Energy customer, I built a visualization tool to help others monitor their energy usage and cost. I hope to leverage this to built more product raise awareness of sustainability.
 
 ---
 
